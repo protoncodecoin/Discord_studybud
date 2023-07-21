@@ -17,5 +17,5 @@ sending and receiving messages. Also has a simple API built with Django RestFram
   <li>Edit Profile</li>
   <li>View others Profile</li>
   <li>Create, Join, Update and Delete Rooms</li>
-  <li>Send Simple Messages</li>
+  <li>Send Simple Messages within joined groups</li>
 </ul>
