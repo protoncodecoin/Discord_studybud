@@ -5,8 +5,12 @@ __pycache__/
 
 # venv
 venv
+studybudvenv
 # C extensions
 *.so
+
+# db
+db.sqlite3
 
 # Distribution / packaging
 .Python
